@@ -20,7 +20,7 @@
     "dist"
   ],
   "dependencies": {
-    "fast-safe-stringify": "^2.0.6"
+    "fast-safe-stringify": "^2.0.8"
   },
   "devDependencies": {
     "@metamask/eslint-config": "^4.1.0",
